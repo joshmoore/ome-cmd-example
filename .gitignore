@@ -1,0 +1,13 @@
+.sconf_temp/
+.sconsign.dblite
+.classpath
+*.pyc
+config.log
+dist/
+omero_version.py
+omero_version.pyc
+setuptools-0.6c11-py2.4.egg
+setuptools-0.6c11-py2.5.egg
+setuptools-0.6c11-py2.6.egg
+target
+generated/
